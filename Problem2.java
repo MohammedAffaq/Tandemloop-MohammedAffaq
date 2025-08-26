@@ -14,7 +14,7 @@ import java.util.*;
 
 public class Problem2 {
 
-   public static void main(String[] var0) {
+   public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
       // Take input from user
       System.out.print("Enter a number: ");
